@@ -5,10 +5,10 @@
 from selenium import webdriver
 
 #put the username into this field
-username = "isanchez2021"
+username = ""
 #put the password range into this field cchsXXXXX to cchsXXXXX, this part is the XXXXX
-upper_bound = 16500
-lower_bound = 15700
+upper_bound = 
+lower_bound = 
 
 driver = webdriver.Chrome("C:\\Dev\\WebDrivers\\chromedriver.exe")
 
